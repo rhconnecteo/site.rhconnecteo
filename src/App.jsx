@@ -65,7 +65,7 @@ function App() {
     },
     {
       name: 'Mouvement Collaborateur',
-      url: 'https://mouvementcollaborateur.vercel.app',
+      url: 'https://mouvement-rh.vercel.app/',
       users: [],
       password: '',
       category: 'Collaborateur'
